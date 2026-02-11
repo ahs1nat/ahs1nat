@@ -16,7 +16,7 @@ I'm Tanisha Sameen, an undergraduate CSE student at Bangladesh University of Eng
   
 ## 📊 GitHub Overview
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahs1nat&layout=compact)
+![Top Languages](https://github-readme-stats-git-masterorgs-anuraghazra.vercel.app/api/top-langs/?username=ahs1nat&layout=compact)
 
 
 <!--
