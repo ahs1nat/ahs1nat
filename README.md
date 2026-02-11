@@ -17,6 +17,7 @@ I'm Tanisha Sameen, an undergraduate CSE student at Bangladesh University of Eng
 ## 📫 Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanisha-sameen-472252357/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:tanishasameen.buetcse@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/ahs1nat/)
 <!--
 **ahs1nat/ahs1nat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
