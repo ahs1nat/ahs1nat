@@ -15,7 +15,12 @@ I'm Tanisha Sameen, an undergraduate CSE student at Bangladesh University of Eng
 - **ScreenShop** (private, in progress)
   
 ## 📫 Connect
-- [LinkedIn](www.linkedin.com/in/tanisha-sameen-472252357)
+-<a href="https://www.linkedin.com/in/tanisha-sameen-472252357/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</a>
+-<a href="mailto:tanishasameen.buetcse@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+</a>
 
 
 
