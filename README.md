@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I'm Tanisha Sameen, an undergraduate CSE student at Bangladesh University of Engineering & Technology (BUET) with a passion for learning and building projects.
+
 <!--
 **ahs1nat/ahs1nat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
