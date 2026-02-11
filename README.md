@@ -14,9 +14,10 @@ I'm Tanisha Sameen, an undergraduate CSE student at Bangladesh University of Eng
 - **[LAN Messenger](https://github.com/ahs1nat/LAN-Messenger)**
 - **ScreenShop** (private, in progress)
   
-## 📊 GitHub Overview
+## Overview
 
-![Top Languages](https://github-readme-stats-git-masterorgs-anuraghazra.vercel.app/api/top-langs/?username=ahs1nat&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahs1nat&layout=compact&theme=transparent)
+
 
 
 <!--
