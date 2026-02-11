@@ -10,8 +10,8 @@ I'm Tanisha Sameen, an undergraduate CSE student at Bangladesh University of Eng
 - Interested in **Cybersecurity**, **Game Development** and **Machine Learning**
 
 ## Projects
-- **[Snake Game][https://github.com/ahs1nat/Snake-Game-iGraphics]**
-- **[LAN Messenger][https://github.com/ahs1nat/LAN-Messenger]**
+- **[Snake Game](https://github.com/ahs1nat/Snake-Game-iGraphics)**
+- **[LAN Messenger](https://github.com/ahs1nat/LAN-Messenger)**
 - **ScreenShop** (private, in progress)
   
 ## 📊 GitHub Overview
