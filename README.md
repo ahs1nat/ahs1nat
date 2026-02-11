@@ -2,21 +2,20 @@
 
 I'm Tanisha Sameen, an undergraduate CSE student at Bangladesh University of Engineering & Technology (BUET).
 
-## About me
+## 🌱 About me
 - Passionate about learning and building projects
 - Coding in **C, C++, Java**, currently learning **Javascript**
 - Learning **SQL**, familiar with **Oracle** and **PostgreSQL** database systems
 - Learning **Git** and **Linux** command line tools
 - Interested in **Cybersecurity**, **Game Development** and **Machine Learning**
 
-## Projects
+## 🚀 Projects
 - **[Snake Game](https://github.com/ahs1nat/Snake-Game-iGraphics)**
 - **[LAN Messenger](https://github.com/ahs1nat/LAN-Messenger)**
 - **ScreenShop** (private, in progress)
   
-## Overview
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahs1nat&layout=compact&theme=transparent)
+## 📫 Connect
+- [LinkedIn](www.linkedin.com/in/tanisha-sameen-472252357)
 
 
 
