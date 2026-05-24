@@ -1,18 +1,23 @@
 ## Hi there 👋
 
-I'm Tanisha Sameen, an undergraduate CSE student at Bangladesh University of Engineering & Technology (BUET).
+I'm Tanisha Sameen, an undergraduate CSE student at Bangladesh University of Engineering & Technology (BUET). I'm interested in Game Development, Machine Learning and Cyber Security. Passionate about building, experimenting, and improving my skills every day.
 
-## 🌱 About me
-- Passionate about learning and building projects
-- Coding in **C, C++, Java**, currently learning **Javascript**
-- Learning **SQL**, familiar with **Oracle** and **PostgreSQL** database systems
-- Learning **Git** and **Linux** command line tools
-- Interested in **Cybersecurity**, **Game Development** and **Machine Learning**
+## 💻 Languages & Tools
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
+</p>
 
 ## 🚀 Projects
 - **[Snake Game](https://github.com/ahs1nat/Snake-Game-iGraphics)**
 - **[LAN Messenger](https://github.com/ahs1nat/LAN-Messenger)**
-- **[ScreenShop](https://github.com/ahs1nat/ScreenShop)** (in progress)
+- **[ScreenShop](https://github.com/ahs1nat/ScreenShop)**
 
 ## 📫 Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanisha-sameen-472252357/)
